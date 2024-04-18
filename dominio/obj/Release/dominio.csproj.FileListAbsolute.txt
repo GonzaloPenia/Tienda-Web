@@ -1,0 +1,6 @@
+D:\2-Programacion\Proyectos Programacion\VentaWeb\dominio\bin\Release\dominio.dll
+D:\2-Programacion\Proyectos Programacion\VentaWeb\dominio\bin\Release\dominio.pdb
+D:\2-Programacion\Proyectos Programacion\VentaWeb\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+D:\2-Programacion\Proyectos Programacion\VentaWeb\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+D:\2-Programacion\Proyectos Programacion\VentaWeb\dominio\obj\Release\dominio.dll
+D:\2-Programacion\Proyectos Programacion\VentaWeb\dominio\obj\Release\dominio.pdb

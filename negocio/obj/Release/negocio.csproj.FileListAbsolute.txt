@@ -1,0 +1,9 @@
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\bin\Release\negocio.dll
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\bin\Release\negocio.pdb
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\bin\Release\dominio.dll
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\bin\Release\dominio.pdb
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\obj\Release\negocio.csproj.AssemblyReference.cache
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\obj\Release\negocio.csproj.CopyComplete
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\obj\Release\negocio.dll
+D:\2-Programacion\Proyectos Programacion\VentaWeb\negocio\obj\Release\negocio.pdb
